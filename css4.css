@@ -1,0 +1,166 @@
+body {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 2196px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+   
+}
+
+header img {
+    width: 145.12px;
+    height: 137px;
+    float: left;
+    margin-right: 147px;
+    margin-top: 10px;
+
+}
+
+header nav{
+    margin-top: 55px;
+   
+}
+
+header {
+    height: 156px;
+    padding-left: 276px;
+    padding-right: 541px;
+    overflow: hidden;
+    margin-top: 0;
+    margin-left: 0;
+    background-color: #EFEBE4;
+    text-align: center; 
+    
+}
+header li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+}
+ header a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.dan{
+    background-color: #ADF2AC;
+    width: 1920px;
+    height: 496px; 
+    padding-top: 88px;
+    padding-left: 187px;
+}
+
+#h{
+    margin-left: 56px;
+    margin-right: 50px;
+    padding-top: 0;
+    margin: 0;
+    padding-bottom: 106px;
+    background-color: #ADF2AC;
+}
+
+#hh{
+    padding-top: 83px;
+    
+}
+
+.vibor{
+    padding-left: 187px;
+    padding-top: 78px;
+}
+
+.vibor > p{
+    padding-top: 78px;
+    padding-bottom: 163px;
+}
+
+.vibor a {
+    color: black;
+}
+
+.podpiska {
+   
+    width: 400px;
+    height: 94px;
+    border-radius:10px ;
+    margin-top: 50px;
+    margin-left: 0;
+    margin-bottom: 50px;
+    padding-bottom: 0;
+}
+
+.podpiska form{
+    padding-top: 30px;
+    padding-left: 0;
+}
+
+#send{
+    height: 25px;
+    width: 100px;
+    border: 0;
+    border-radius: 20px;
+    background-color: #ADF2AC;
+}
+
+#email{
+    height: 30px;
+    width: 187px;
+}
+
+#komm{
+    height: 193px;
+    width: 668px;
+    font-size: 25px;
+    
+}
+
+
+.oform{
+margin-left: 736px;
+margin-bottom: 66px;
+}
+#otpr{
+    height: 104px;
+    width: 456px;
+    border: 0;
+    border-radius: 20px;
+    background-color: #ADF2AC;
+    font-size: 38px;
+
+}  
+
+
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+footer {
+    padding-left: 276px;
+    padding-right: 541px;
+    padding-top: 67px;
+    padding-bottom: 51px;
+    overflow: hidden;
+    background-color: #EFEBE4;
+    margin: 0 ;
+    text-align: center; 
+    height: 23px;
+
+}
+
+footer li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+
+}
+footer p {
+    float: left;
+}
